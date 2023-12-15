@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ashutosh-shriansh-first-angular-project';
+  firstName = 'anvesh';
+  lastName = 'shriansh';
 }
